@@ -1,1 +1,2 @@
-node main.js
+worker : bash install.sh && node main.js
+
