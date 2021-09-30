@@ -1,2 +1,2 @@
-worker : bash install.sh && node main.js
+worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && bash install.sh && node main.js
 
