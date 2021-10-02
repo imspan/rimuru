@@ -86,4 +86,4 @@
 
 ## deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammadyesus/rimuru-uploader/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammadyesus/rimuru/)
