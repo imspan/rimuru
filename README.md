@@ -84,3 +84,6 @@
 - [`SAWERIA`](https://saweria.co/AnimeSeleraku)
 - [`SOSMED`](https://instabio.cc/Rimuru)
 
+## deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammadyesus/rimuru-uploader/)
